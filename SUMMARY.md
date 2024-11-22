@@ -10,6 +10,8 @@
 * [Communs numériques](communs-numeriques.md)
 * [Organisation produit](organisation-produit.md)
 * [Architecture](Architecture/README.MD)
+  * [Démarche](Architecture/demarche.md)
+  * [Principes](Architecture/principes.md)
   * [Authentification](Architecture/authentification.md)
   * [API Management](Architecture/api-management.md)
 * [Data](data.md)
