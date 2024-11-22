@@ -147,13 +147,14 @@ Graphql est un langage de requête pour API permettant aux clients de demander e
 
 ## Analyse comparative
 
-|Critère |REST |SOAP |Webhook | GraphQL|
-|Flexibilité| Bonne|Faible | Moyenne | Elevée|
-|Performance| Bonne|Moyenne | Très bonne | Bonne|
-|Complexité| Faible|Elevée | Faible | Moyenne|
-|Sécurité| Bonne|Très bonne | Moyenne | Bonne|
-|Scalabilité| Très bonne|Bonne| Très bonne | Bonne|
-|Expérience développeur| Très bonne|Moyenne | Bonne | Très bonne|
+|Critère|REST|SOAP|Webhook|GraphQL|
+|-|-|-|-|-|
+|Flexibilité|Bonne|Faible|Moyenne|Elevée|
+|Performance|Bonne|Moyenne|Très bonne|Bonne|
+|Complexité|Faible|Elevée|Faible|Moyenne|
+|Sécurité|Bonne|Très bonne|Moyenne|Bonne|
+|Scalabilité|Très bonne|Bonne|Très bonne|Bonne|
+|Expérience développeur|Très bonne|Moyenne|Bonne|Très bonne|
 
 
 ## Recommandations
