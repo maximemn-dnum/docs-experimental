@@ -5,6 +5,8 @@ La démarche produit et l’implémentation de ces pratiques répondent à un be
 En structurant chaque produit autour d’objectifs clairs, de mesures d’impact et de cycles itératifs, ces pratiques permettent aux équipes de concentrer leurs efforts sur des résultats concrets et mesurables.  
 Cette approche favorise l’amélioration continue, facilite la prise de décisions éclairées et assure que chaque produit réponde efficacement aux besoins des usagers tout en respectant les standards de qualité et de sécurité.
 
+---
+
 ## Vision et objectifs
 
 La vision produit définit un cap clair, aligné avec les priorités des ministères sociaux et les besoins des usagers, qu’il s’agisse des citoyens, agents publics ou métiers. Elle permet de fixer des objectifs clairs et concrets.
@@ -26,6 +28,8 @@ Elle donne une direction partagée et cohérente, assurant un alignement d'équi
 - [ ] Définir la solution et sa proposition de valeur : quel est son axe différenciant ?
 - [ ] Décrire l’impact attendu.
 {% endhint %}
+
+---
 
 ## Indicateurs d’impact
 
@@ -81,6 +85,8 @@ Ces indicateurs permettent de vérifier que l'on progresse dans la bonne directi
 - **Les indicateurs (ou KPIs)** mesurent l’avancement concret vers ces objectifs (par exemple : augmentation de 20 % de la satisfaction utilisateur, réduction de 30 % du temps de traitement).
 {% endhint %}
 
+---
+
 ## Itérations courtes
 
 Une approche itérative favorise la souplesse, en permettant d’ajuster le produit en continu grâce aux retours utilisateurs et aux évolutions réglementaires ou technologiques.
@@ -92,18 +98,50 @@ L’approche itérative se coordonne naturellement avec [le cycle de vie produit
 
 ---
 
-## L’accompagnement des coachs pour mettre cela en pratique
+## La roadmap court terme
 
-Les coachs accompagnent les équipes produit pour faciliter l’adoption de méthodes produit et renforcer les compétences internes.  
-Leurs interventions permettent de résoudre diverses problématiques méthodologiques et organisationnelles.
+### Pourquoi une roadmap court terme ?
+Une roadmap court terme permet de définir une vision claire et actionable sur une période limitée, généralement de 3 à 6 mois.  
+Elle aide les équipes à prioriser les initiatives clés, à s’aligner sur des objectifs réalistes et à garder un cap malgré les imprévus ou les évolutions rapides.
 
-[Je contacte le bureau design et développement](https://msociauxfr.sharepoint.com/teams/ProductTeams-DevDesignAccessibilitRechercheutilisateurCoachi/SitePages/Accueil.aspx)
+### Contenu d'une roadmap court terme
+1. **Objectifs prioritaires** : Définir les résultats spécifiques que l’équipe souhaite atteindre à court terme.
+2. **Initiatives clés** : Identifier les fonctionnalités, expérimentations ou actions à mettre en œuvre.
+3. **Dépendances et risques** : Lister les éléments externes qui pourraient influencer la réalisation de la roadmap.
+4. **Calendrier** : Structurer les activités et livrables par semaine ou par mois.
 
-### Exemples d’interventions :
-- Ateliers de cadrage produit pour clarifier la vision, les attentes et la feuille de route.
-- Rétrospectives de sprint pour analyser et optimiser chaque itération.
-- Co-construction d’une roadmap stratégique.
-- Soutien à l’adoption des méthodologies agiles.
-- Suivi des indicateurs de performance (KPI).
-- Audit produit et gestion des risques.
-- Accompagnement post-lancement.
+#### Exemples :
+- Livraison d’un MVP d’une fonctionnalité critique dans les 3 prochains mois.
+- Intégration de retours utilisateurs prioritaires collectés lors des tests.
+- Réduction du temps de traitement d’un processus interne clé d’ici 2 mois.
+
+{% hint style="info" %}
+### Bonnes pratiques pour une roadmap court terme :
+- **Focus** : Se concentrer sur un nombre limité d’objectifs réalisables.
+- **Flexibilité** : Prévoir des marges pour intégrer des ajustements selon les retours utilisateurs ou les imprévus.
+- **Communication** : Partager la roadmap avec toutes les parties prenantes pour garantir un alignement constant.
+{% endhint %}
+
+---
+
+## Les rôles et responsabilités
+
+### Pourquoi structurer les rôles ?
+Une clarification des rôles et responsabilités permet d’assurer une coordination efficace, d’éviter les zones de flou et de maximiser la collaboration entre les membres de l’équipe produit.  
+Chaque rôle apporte une expertise et un regard spécifique, contribuant à la réussite du produit.
+
+### Lister l'ensemble des personnes impliquées dans l'organisation du produit 
+
+* Les équipes au sein de la DNUM
+* Les équipes "métiers"
+* Les équipes prestataires
+* Les parties prenantes 
+
+### Bonnes pratiques pour gérer les rôles
+- **Clarification des attentes** : Définir clairement les responsabilités de chaque rôle dès le début du projet.
+- **Favoriser la collaboration** : Encourager un dialogue régulier et transparent entre les rôles.
+- **Responsabilisation** : Assurer que chaque rôle dispose des moyens nécessaires pour remplir ses missions.
+
+{% hint style="info" %}
+Un cadre clair pour les rôles et responsabilités renforce la confiance au sein de l’équipe, évite les redondances et permet une exécution plus fluide du projet.
+{% endhint %}
