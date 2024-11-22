@@ -12,6 +12,7 @@
 * [Architecture](Architecture/README.MD)
   * [Démarche](Architecture/demarche.md)
   * [Normes](Architecture/normes/README.md)
+  * [Norme API](Architecture/normes/norme-api.md)
   * [Principes](Architecture/principes.md)
   * [Authentification](Architecture/authentification.md)
   * [API Management](Architecture/api-management.md)
