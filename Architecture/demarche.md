@@ -47,7 +47,7 @@ Si le besoin sort suffisamment de ce qui est faisable avec une solution actuelle
 <summary><strong>Développer</strong></summary>
   
 Quand le besoin est trop spécifique on peut alors considérer la construction d'un produit dédié pouvant porter cette fonction. 
-* Ce produit doit alors respecter nos [principes d'architectures](principes.md) pour garantir sa valorisation dans le temps
+* Ce produit doit alors respecter nos [principes d'architectures](./principes.md) pour garantir sa valorisation dans le temps
 * Si des options de sécurité/hébergement spécifiques sont nécessaires alors l'option spécifique est préférable autrement une analyse technico-financière plus précise doit également être réalisée pour identifier si l'option "Acheter" est plus pertinente.
 
 </details>
