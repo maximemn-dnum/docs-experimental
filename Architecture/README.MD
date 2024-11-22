@@ -15,5 +15,5 @@ Pour ce faire l'architecture se positionne comme un accélérateur pour fournir 
 L'architecture à 3 missions principales pour la DNUM et son écosystème : 
 
 * Faire vivre un référentiel de standards et normes partagés sur son périmètre et en alignement avec les autres parties prenantes en particulier concernant les aspects [développement](../Developpement/README.md), [devsecops](../DevSecOps/README.md) et [hébergement](../Hebergement/README.md)
-* Travailler à l'amélioration continue des SI et applications en développant un catalogue de solutions réutilisables et d'offres de services communes centrés sur des [cas d'usages](./catalogue.md) s'inscrivant dans une [démarche de rationalisation](./demarche.md)
-* Accompagner les équipes projets dans leurs besoins via notre [offre de services](./services.md)
+* Travailler à l'amélioration continue des SI et applications en développant un catalogue de solutions réutilisables et d'offres de services communes centrés sur des cas d'usages s'inscrivant dans une [démarche de rationalisation](./demarche.md)
+* Accompagner les équipes projets dans leurs besoins via notre offre de services

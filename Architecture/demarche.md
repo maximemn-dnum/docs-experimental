@@ -13,7 +13,7 @@ A ce titre les objectifs principaux sont :
 ## Processus RADAR pour une nouvelle application
 
 {% hint style="info" %}
-** Ce processus est en constante évolution et ce fait toujours sur la base d'une impression holistique d'un projet et de ses problématiques spécifiques **
+Ce processus est en constante évolution et ce fait toujours sur la base d'une impression holistique d'un projet et de ses problématiques spécifiques
 {% endhint %}
 
 RADAR pour Réutiliser, Adapter, Développer, Acheter et Reformuler est un framework simple pour attaquer le sujet de la dette technique et de la rationalisation des applications. 
